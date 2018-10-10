@@ -19,3 +19,5 @@ Also it includes a implemented from scratch.
 ## Running App
 
 * npm start
+
+[![Build Status](https://travis-ci.org/negarineh/redux_sample.svg?branch=master)](https://travis-ci.org/negarineh/redux_sample)
